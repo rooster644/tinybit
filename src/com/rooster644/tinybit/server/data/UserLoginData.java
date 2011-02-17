@@ -3,6 +3,7 @@ import javax.persistence.Id;
 import javax.persistence.Transient;
 
 import com.google.appengine.api.users.User;
+import com.googlecode.objectify.annotation.Unindexed;
 
 public class UserLoginData {
 	@Id public Long id;

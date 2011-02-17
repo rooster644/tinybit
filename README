@@ -1,5 +1,4 @@
-This is the (sort of) source code for Tiny Bit. As of 10 February 2011,
-There is 1 index in the datastore called 'UserData' and the only things implemented are index.html and the Session ID Javascript at the moment though.
+This is the (sort of) source code for Tiny Bit.
 This software is Apache Licensed.See LICENSE for details.
 This software uses:
 JQuery 1.5 (http://jquery.com)
@@ -7,4 +6,6 @@ JQuery UI 1.8.9 (http://jqueryui.com)
 'autocenter' (https://github.com/molokoloco/FRAMEWORK/raw/master/jquery.plugins/jquery.center.mlklc.js)
 Objectify (http://code.google.com/p/objectify-appengine)
 json.simple (http://code.google.com/p/json-simple)
+OWASP CSRFGuard (http://www.owasp.org/index.php/Category:OWASP_CSRFGuard_Project)
+Scribe OAuth (https://github.com/fernandezpablo85/scribe-java)
 The above components are licensed under their respective licenses.
